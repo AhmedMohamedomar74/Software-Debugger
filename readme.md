@@ -11,7 +11,11 @@ This software debugger is designed to facilitate debugging processes for microco
 - **User-friendly Controls**: Simple controls for initiating read and write operations.
 
 ## Demo
-![Debugger Demo](demo.gif)
+![image](https://github.com/AhmedMohamedomar74/Software-Debugger/assets/119351564/c68ef3b2-8d4c-4e0c-a85b-5adbcb7feb85)
+![image](https://github.com/AhmedMohamedomar74/Software-Debugger/assets/119351564/365d6e9e-7011-45d0-b23b-80ece6dcc473)
+
+
+
 
 ## Installation
 1. **Install PyQt**: You need to install PyQt library. If you haven't installed it yet, you can install it using 
@@ -21,9 +25,11 @@ This software debugger is designed to facilitate debugging processes for microco
     
     `pip install pyserial`
 3. **Clone the Repository**: Clone this repository to your local machine.
-    git clone https://github.com/your_username/debugger.git
+    git clone
 
-4. **Install Dependencies**: Ensure all other required dependencies are installed. Detailed instructions can be found in the `README.md` file of the repository.
+   `https://github.com/AhmedMohamedomar74/Software-Debugger.git`
+
+5. **Install Dependencies**: Ensure all other required dependencies are installed. Detailed instructions can be found in the `README.md` file of the repository.
 
 ## Usage
 1. **Connect Microcontroller**: Connect your microcontroller to your computer using UART communication.
